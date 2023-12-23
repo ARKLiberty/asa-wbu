@@ -10,7 +10,7 @@
     "LinkButtonTxt3": "Discord",
     "LinkButtonTxt4": "",
     "LinkButtonTxt5": "",
-    "LinkButton1": "https://arkliberty-x10.survivalshop.org",
+    "LinkButton1": "https://arkliberty-x5.survivalshop.org",
     "LinkButton2": "https://vk.com/arkliberty",
     "Link1Button3": "https://discordapp.com/invite/SJEMqFR",
     "Link2Button3": "",
@@ -42,7 +42,7 @@
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
     "Tab1Title1": "Информация о проекте ARKLiberty:",
-    "Tab1Title2": "Наcтройки PvE серверов x10:",
+    "Tab1Title2": "Наcтройки PvE кластера x5:",
     "Tab1Title3": "",
     "Tab2Title1": "Правила поведения на наших серверах:",
     "Tab2Title2": "Rules of behavior on our servers:",
@@ -70,25 +70,33 @@
 Присутствует система игровых очков. За игру на сервере начисляются очки. С помощью очков можно пользоваться внутриигровым магазином!
 ----------------------------------------------------------------------------------------------
 
-ARKLiberty (x10) Ragnarok [PvE][SS][Points]
-steam://connect/188.255.118.188:27015
+[RU] ARKLiberty x5 Ragnarok [PvE]
+188.255.118.122:27015
 
-ARKLiberty (x10) TheIsland [PvE][SS][Points]
-steam://connect/188.255.118.188:27020
+[RU] ARKLiberty x5 TheIsland [PvE]
+188.255.118.122:27020
 
-ARKLiberty (x10) Valguero [PvE][SS][Points]
-steam://connect/188.255.118.188:27035
+[RU] ARKLiberty x5 Aberration [PvE]
+188.255.118.122:27025
 
-ARKLiberty (x10) CrystalIsles [PvE][SS][Points]
-steam://connect/188.255.118.188:27045
+[RU] ARKLiberty x5 Extinction [PvE]
+188.255.118.122:27030
 
-Следующие 2 карты заменяют друг друга раз в месяц:
+[RU] ARKLiberty x5 CrystalIsles [PvE]
+188.255.118.122:27035
 
-ARKLiberty (x10) Aberration [PvE][SS][Points]
-steam://connect/188.255.118.188:27025
+[RU] ARKLiberty x5 Genesis [PvE]
+188.255.118.122:27040
 
-ARKLiberty (x10) Genesis [PvE][SS][Points]
-steam://connect/176.109.78.42:27040
+[RU] ARKLiberty x5 Fjordur [PvE]
+188.255.118.122:27045
+
+[RU] ARKLiberty x5 Genesis2 [PvE]
+188.255.118.122:27050
+
+На Valguero с модом суприм можно попасть только после прохождения всех бета вознесений!
+[RU] ARKLiberty x5 Valguero [PvE][Supreme]
+188.255.118.122:27060
 ----------------------------------------------------------------------------------------------
 ",
     "Tab1Text2": "
