@@ -1,18 +1,18 @@
 {
-    "ServerName": "",
-    "ButtonTxt1": "Информация",
-    "ButtonTxt2": "Правила/Rules",
-    "ButtonTxt3": "Внутриигровые очки",
+    "ServerName": "Editable Server UI",
+    "ButtonTxt1": "Welcome",
+    "ButtonTxt2": "",
+    "ButtonTxt3": "",
     "ButtonTxt4": "",
     "ButtonTxt5": "",
-    "LinkButtonTxt1": "Магазин",
-    "LinkButtonTxt2": "Вконтакте",
-    "LinkButtonTxt3": "Discord",
+    "LinkButtonTxt1": "WBUI",
+    "LinkButtonTxt2": "",
+    "LinkButtonTxt3": "",
     "LinkButtonTxt4": "",
     "LinkButtonTxt5": "",
-    "LinkButton1": "https://arkliberty-x5.survivalshop.org",
-    "LinkButton2": "https://vk.com/arkliberty",
-    "Link1Button3": "https://discordapp.com/invite/SJEMqFR",
+    "LinkButton1": "http://steamcommunity.com/sharedfiles/filedetails/?id=924619115",
+    "LinkButton2": "",
+    "Link1Button3": "",
     "Link2Button3": "",
     "Link3Button3": "",
     "Link4Button3": "",
@@ -24,30 +24,30 @@
     "Link2Button5": "",
     "Link3Button5": "",
     "Link4Button5": "",
-    "Tab1Panelcount": 2,
-    "Tab2Panelcount": 2,
+    "Tab1Panelcount": 1,
+    "Tab2Panelcount": 3,
     "Tab3Panelcount": 1,
     "Tab4Panelcount": 1,
     "Tab5Panelcount": 1,
-    "BackgroundTab1": 14,
-    "BackgroundTab2": 14,
-    "BackgroundTab3": 14,
-    "BackgroundTab4": 14,
-    "BackgroundTab5": 14,
-    "Background3Color": "0.0,0.0,255.0,0.5",
-    "FontColorButtons": "255.0,255.0,255.0",
-    "FontColorServerName": "255.0,95.114998,0.0",
-    "FontColorTabTitles": "19.379999,255.0,0.0",
-    "FontColorTabText": "255.0,255.0,255.0",
+    "BackgroundTab1": 0,
+    "BackgroundTab2": 0,
+    "BackgroundTab3": 0,
+    "BackgroundTab4": 0,
+    "BackgroundTab5": 0,
+    "Background3Color": "0,0,255,0.5",
+    "FontColorButtons": "255,255,255",
+    "FontColorServerName": "255,95,0",
+    "FontColorTabTitles": "20,255,0",
+    "FontColorTabText": "255,255,255",
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
-    "Tab1Title1": "Информация о проекте ARKLiberty:",
-    "Tab1Title2": "Наcтройки PvE кластера x5:",
+    "Tab1Title1": "Welcome",
+    "Tab1Title2": "",
     "Tab1Title3": "",
-    "Tab2Title1": "Правила поведения на наших серверах:",
-    "Tab2Title2": "Rules of behavior on our servers:",
+    "Tab2Title1": "",
+    "Tab2Title2": "",
     "Tab2Title3": "",
-    "Tab3Title1": "Начисляются по 50 очков раз в 20 минут!",
+    "Tab3Title1": "",
     "Tab3Title2": "",
     "Tab3Title3": "",
     "Tab4Title1": "",
@@ -56,377 +56,19 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": ""
-Кластер PvE серверов с рейтами x10:
+    "Tab1Text1": "This UI is unedited. Pls contact an Admin.
 
-- На карты Ragnarok и Valguero добавлены Орбитальные дропы (ОГМ) и Элементные жилы.
-- Дракона можно найти на Island!
-- Животных из Атласа встретить на всех картах!
-- Новых Аберратных животных увидеть на Aberration и Valguero!
-- Кристальные животные обитают на Crystal Isles!
-- Боссы появляются на Valgueroи их можно приручить!
-- На Aberration можно перемещать почти всех животных (кроме летающих) с помощью нового криопода SoulTrap (обычные криоподы вырезаны из игры).
-----------------------------------------------------------------------------------------------
-Присутствует система игровых очков. За игру на сервере начисляются очки. С помощью очков можно пользоваться внутриигровым магазином!
-----------------------------------------------------------------------------------------------
-
-[RU] ARKLiberty x5 Ragnarok [PvE]
-188.255.118.122:27015
-
-[RU] ARKLiberty x5 TheIsland [PvE]
-188.255.118.122:27020
-
-[RU] ARKLiberty x5 Aberration [PvE]
-188.255.118.122:27025
-
-[RU] ARKLiberty x5 Extinction [PvE]
-188.255.118.122:27030
-
-[RU] ARKLiberty x5 CrystalIsles [PvE]
-188.255.118.122:27035
-
-[RU] ARKLiberty x5 Genesis [PvE]
-188.255.118.122:27040
-
-[RU] ARKLiberty x5 Fjordur [PvE]
-188.255.118.122:27045
-
-[RU] ARKLiberty x5 Genesis2 [PvE]
-188.255.118.122:27050
-
-На Valguero с модом суприм можно попасть только после прохождения всех бета вознесений!
-[RU] ARKLiberty x5 Valguero [PvE][Supreme]
-188.255.118.122:27060
-----------------------------------------------------------------------------------------------
-",
-    "Tab1Text2": "
-Сложность - x5; 
-Опыт - x10; 
-Приручение - x10; 
-Сбор ресурсов - x10; 
-Рост грядок - x5; 
-Выращивание - x10; 
-Инкубация - x10; 
-Качество лута в контейнерах/рыбалке - x1.2/x1.5;
-Максимальный уровень игрока - 105 + 5 (чиби) + 45 (три вознесения); 
-Максимальный уровень диких животных - 150;
-Максимальный уровень яиц виверн, дрейков и дейнонихов - 190;
-Максимальный прокачиваемый уровень дино +73 (Genesis +88);
-Лимит животных на трайб - 200;
-Общий лимит на сервере - 6000;
-Полёт в пещерах - выключено;
-Бесконечное использование Амнезии - включено; 
-Расположение игрока на мини карте - включено; 
-Вид от 3 лица - включено; 
-Луч для поиска трупов - включено; 
-Отображение урона - включено; 
-Радиус ограничения турелей стандарт - 10000, а количество увеличено до 300 шт; 
-Гамма - включено; 
-Коллизия текстур - выключено; 
-Автозапирание построек - включено; 
-Старение и саморазрушение построек - включено;
-Количество человек в трайбе - 20;
-Альянсы - включено;
-Приручение Титанов, Титанозавра - включено;
-Жизнь Титанов - 72 часа.
-
-Поуровневые множители персонажа:
-  Выносливость - х5;
-  Стойкость - х5;
-  Вес - х5;
-  Скорость - х2;
-Поуровневые множители животных:
-  Выносливость - х5;
-  Вес - х5.
-
-Список разрешённых летающих животных на карте Genesis:
-- Аргентавис, Х-Аргентавис, Пелагорнис, Птеранодон, Тапежара, Х-Тапежара, Ludodactylus (из мода).
-----------------------------------------------------------------------------------------------
-Настройки Мутатора:
-  Мутация (Mutation) - 500 элемента,
-  Случайный пол на 6ч (Gender Assignment) - 50 элемента,
-  Поменять пол на 6ч (Gender Swap) - 50 элемента,
-  Разрешить размножение (Allow Breeding) - 100 элемента,
-  Остановить рост дино (Age Freeze) - отключено,
-  Превращение в Пораженного дино (Corrupt) - отключено,
-  Превращение Аберацианного дино (Aberrant) - отключено.
-
-",
+Are you an Admin?
+Follow these steps:
+- enablecheats youradminpassword (login as admin)
+- Admin icon visible
+- Use the buttons in the bottom right corner.",
+    "Tab1Text2": "",
     "Tab1Text3": "",
-    "Tab2Text1": "
-
-Играя на наших серверах вы автоматически принимаете все перечисленные ниже правила.
-Незнание правил сервера не освобождает вас от ответственности!
-Не за все нарушения правил банят игроков, что делать с нарушителями решает администрация проекта!
-----------------------------------------------------------------------------------------------
-
-1. Рейд
-
-1.1. Массовое рейдерство запрещено (геноцид) — бан по стиму;
-*Рейдом считается любое проявление агрессии по отношению к базе или животным на ней (убийство более 5 шт.) - гриферство.
-
-1.2. Нельзя рейдить больше одного трайба в сутки (кд скидывается в 00:00 по МСК). Это относится и к PvE режиму - убийство животных на базе противника считается рейдом.
-Если кто-то нападает на вашу базу, то ограничение на рейд 1 трайба в сутки автоматически снимается, но только по отношению к нападающим (при себе иметь доказательства). Так же можно рейдить второй трайб по обоюдному согласию на войну (прилагать скриншоты чата в качестве доказательства согласия);
-
-1.3. Третьей стороне запрещено вмешиваться в рейд/оборону! Наказание понесет третья сторона (правило только для кластера 5ManTribe);
-
-1.4. Все трайбовые конфликты и споры (инсайд) — игроки решают между собой сами (не надо писать и жаловаться администрации). Если член трайба по какой-то причине вас убил, обокрал, сломал дом, отклеймил или убил животных трайба, то в этом виноваты вы сами, администрация не участвует в ваших личных проблемах;
-
-1.5. Запрещена глухая застройка животных и Тек ховера, максимум по двум сторонам, в голове и хвосте постройки не должны выступать за платформу на расстояние 1-го фундамента (нельзя разряжать постройками) — убийство животного без предупреждения;
-
-1.6. Запрещено на сёдла-платформы ставить огромные постройки (рамы, люки, большие стены и т.д.);
-
-1.6.1. Запрещено на платформах строить трубы/тоннели и находясь в них лепить С4 на чужие постройки;
-*Трубой/тоннелем считается коробка на платформе, размером больше чем 2х1 фундамента. Стены в высоту тоже считаются трубой!
-
-1.7. Запрещено использовать животных для нанесения урона сквозь текстуры:
-1. Вставать гигой в проходе в пещеру и грызть сквозь скалы (когда голова находится в текстурах) — пример <нажми>
-2. Стрелять Велоназавром сквозь камни/текстуры
-3. Использовать Тапежару с тек седлом, стреляя сквозь постройки/текстуры);
-
-1.7.1. Запрещено использовать животных для разрядки турелей за счет проникновения их конечностей сквозь текстуры;
-
-1.8. Запрещено постройками на платформах, включая постройки на плоту или моторной лодке, проникать в другие постройки для подрыва;
-----------------------------------------------------------------------------------------------
-
-2. Общение
-
-2.1. Запрещено оскорбление других игроков, участников сообщества и администрации. (3 замечания и вылет с сервера, считаются любые предыдущие предупреждения);
-
-2.2. Запрещено флудить/спамить в игровом чате и в комментариях группы в вк;
-
-2.3. Запрещена реклама других серверов; продажа аккаунтов, принтов, вещей и ресурсов в чате игры, группе в вк и дискорде;
-
-2.4. Запрещено использование ников, несущих в себе: мат, нецензурные выражения, расизм, экстремизм, идиоматических и уголовных выражений, плагиат, рекламу, порнографию, эротику, угроз расправы, любую другую информацию оскорбительного характера по отношению к другим игрокам и администрации;
-
-2.5. Запрещено использование ника с упоминанием админа, администрации. Так же нельзя представляться админами, тем самым вводить игроков в заблуждение.
-----------------------------------------------------------------------------------------------
-
-3. Читы/Текстуры/Баги
-
-3.1. За использование любых читов, багов, дюпов — бан по стиму;
-
-3.2. За намеренное использование чего-либо, чтобы положить сервер — бан по стиму;
-
-3.3. Запрещено лазить и строить в текстурах;
-
-3.4. Запрещено использовать холодильник для стрельбы с него;
-
-3.5. Запрещено ставить турели на невидимые постройки;
-
-3.6. Запрещено строить в воздухе без соединения с поверхностью и без поддержки фундамента под или над ними (под водой тоже);
-
-3.6.1. Запрещено обходить расстояние на строительство построек вблизи другого трайба (за счёт высоты или глубины);
-
-3.7. За использование S+ Tek Телепорта и Awesome телепорта для попадания в текстуры — бан по стиму;
-
-3.7.2. Запрещено ставить больше двух столбов MAGA ORP на трайб. При слиянии трайбов убирайте лишние столбы;
-
-3.8. За разрушение элементной жилы животным (например богомолом) на PvE серверах, которая заклеймлена другим игроком — бан по стиму.
-----------------------------------------------------------------------------------------------
-
-4. Развитие
-
-4.1. Находясь в PvE режиме запрещено ставить доты или постройки около других баз игроков, которые находятся в PvE или PvP режиме;
-
-4.1.1. Находясь в PvP режиме запрещено ставить доты или постройки около других баз игроков, которые находятся в PvE режиме;
-
-4.2. Нельзя иметь разные названия трайба в одном кластере;
-*Переименовывать трайб можно раз в неделю.
-
-4.2.1. Запрещено изменять названия трайба до рейда и после рейда (не надо скрывать себя);
-
-4.3. Запрещено удержание игрока или его животного (не давать играть) более 2 реальных часов;
-
-4.4. Запрещено убивать уже спящее животное или находящееся в ловушке;
-
-4.5. Запрещено уводить диких Титанов из зоны их спавна и рейдить ими чужие базы. Так же нельзя это делать и с поражёнными животными (это касается и х50 пве сервера);
-----------------------------------------------------------------------------------------------
-
-5. Строительство
-
-5.1. Одному трайбу на карте разрешено иметь только одну базу на суше, вторую в воде (если было слияние трайбов, то вам придётся пожертвовать одной из баз ради соблюдения правил);
-
-5.2. Застройка пещер без артефактов. Тот кто первый застроил/перекрыл вход, является ее владельцем. Другие постройки будут удалены!
-
-5.3. Запрещено строить базы на точках возрождения игроков, около обелисков и в любых дырах/щелях с узкими проходами в них, которые не являются пещерами (так же к ним относятся ограждения, доты с турелями, шипы, ловушки и т.д.);
-*Пещерами считаются места, в которых постройки получают увеличенный урон (х6).
-
-5.4.1. Запрещено застраивать или перекрывать проход к любым лучам или дропам пока у вас активен PvE статус (посмотреть можно командой /pvestatus);
-
-5.5. Запрещены бесхозные постройки, фундаменты, колонны и колья. Они дополнительно нагружают сервер. Разрушайте пожалуйста, если не пользуетесь;
-*Разрешены только около своей базы.
-
-5.5.1. Запрещено разбрасывать доты/фобы на сервере, ставить можно только около своей или чужой базы во время рейда/обороны. Исключением являются защита себя у обелиска во время прохождения босса и оборона дропа или жилы на Экстиншине;
-
-5.6. Запрещено открывать Awesome Teleport публично для всех. Если вы случайно телепортировались на чужую базу, то сделайте скриншоты с названием телепорта и кому он принадлежит;
-----------------------------------------------------------------------------------------------
-
-6. Администрация
-
-6.1. Администрация проекта не несёт ответственность за баги игры: исчезновение животных или лута, падение сквозь текстуры, застревание в текстурах, застревание животных в криоподе и т.д. Всё это на совести разработчиков игры;
-* Исключения в случае падения сервера (скрины логов должны прилагаться).
-
-6.2. Администрация не несет никакой ответственности за содержимое криокапсул, а так же за них самих;
-
-6.3. За игнорирование предупреждений администрации - бан; 
-
-6.4. Администрация на свое усмотрение может заблокировать доступ к серверу любого игрока или группу игроков, без объяснения и причин (это вынужденная мера);
-
-6.5. Администрация в праве вносить изменения в существующие правила для улучшения качества игры наших игроков;
-
-6.6. У нас индивидуальные настройки сервера, если они вас не устраивают, мы вас не держим.
-
-",
-    "Tab2Text2": "
-
-By playing on our servers you automatically accept all of the rules listed below.
-Ignorance of server rules does not relieve you of responsibility!
-Not for all violations of the rules they ban players, what the administration of the project decides to do with violators!
-----------------------------------------------------------------------------------------------
-
-1. Raid
-
-1.1. Mass raiding is prohibited (genocide) - ban by steam;
-*A raid is any manifestation of aggression against a base or animals on it (killing more than 5 pcs.) - grief.
-
-1.2. You cannot raid more than one tribe per day (cooldown drops at 00:00 Moscow time). This also applies to the PvE mode - killing animals on the basis of the enemy is considered a raid. If someone attacks your base, then the limit on raid 1 tribe per day is automatically removed, but only in relation to the attackers (have proof with you). You can also raid the second tribe by mutual consent to the war (attach screenshots of the chat as evidence of consent);
-
-1.2.1. You cannot constantly raid the same tribe and prevent them from developing within 2 days after the raid. If, for some reason, you didn’t raid a tribe, you can return once within two hours. If you have not returned within two hours, then you turn on the cd for the re-raid of this tribe;
-*Buildings left after the raid will be demolished! (if you do not take them with you)
-
-1.4. All tribal conflicts and disputes (insider) - players decide among themselves (do not write and complain to the administration). If a member of the tribe for some reason killed you, robbed, broke the house, branded or killed the animals of the tribe, then you are to blame for this, the administration is not involved in your personal problems;
-
-1.5. The deaf building of animals and Tek Hover Skiff is forbidden, on a maximum of two sides, in the head and tail of the building should not protrude beyond the platform at the distance of the 1st foundation (cannot be discharged by buildings) - killing the animal without warning;
-
-1.6. It is forbidden to put huge buildings on platform saddles (frames, hatches, large walls, etc.);
-
-1.6.1. It is forbidden to build pipes / tunnels on platforms and being in them sculpt C4 on other people's buildings;
-*A pipe on a platform is considered to be a box on a platform larger than 2x1 of the foundation. Walls in height are also considered a pipe!
-
-1.7. It is forbidden to use animals to cause damage through textures:
-1. Get up a Giga in the passage into the cave and gnaw through the rocks (when the head is in the textures)
-2. Shoot the Velonasaur through stones / textures
-3. Use Tapejara with a tech saddle, shooting through buildings / textures);
-
-1.7.1. It is forbidden to use animals to defuse turrets due to the penetration of their limbs through textures;
-
-1.8. It is forbidden to use buildings on platforms, including buildings on a raft or a motor boat, to enter other buildings to undermine;
-----------------------------------------------------------------------------------------------
-
-2. Communication
-
-2.1. It is forbidden to insult other players, members of the community and administration. (3 comments and departure from the server, any previous warnings are considered);
-
-2.2. It is forbidden to flood / spam in the game chat and in the group comments in VK;
-
-2.3. Advertising of other servers is prohibited; selling accounts, prints, things and resources in the game chat, to a group in VK and to discord;
-
-2.4. It is forbidden to use nicknames that contain: mat, obscene expressions, racism, extremism, idiomatic and criminal expressions, plagiarism, advertising, pornography, eroticism, threats of violence, any other information that is offensive in relation to other players and the administration;
-
-2.5. It is forbidden to use a nickname mentioning the administrator, administration. It is also impossible to introduce themselves as admins, thereby misleading players.
-----------------------------------------------------------------------------------------------
-
-3. Cheats / Textures / Bugs
-
-3.1. For the use of any cheats, bugs, dups - ban on Steam;
-
-3.2. For the intentional use of something to put the server - a ban on Steam;
-
-3.3. It is forbidden to climb and build in textures;
-
-3.4. It is forbidden to use the refrigerator for firing from it;
-
-3.5. It is forbidden to put turrets on invisible buildings;
-
-3.6. It is forbidden to build in the air without connecting to the surface and without supporting the foundation under or above them (under water, too);
-
-3.6.1. It is forbidden to go around the distance to the construction of buildings near another tribe (due to height or depth);
-
-3.7. For using S + Tek Teleport and Awesome Teleport for getting into textures - ban on Steam;
-
-3.7.2. It is forbidden to put more than two MAGA ORP poles on a tribe. When merging the tribes, remove the extra columns;
-
-3.8. For the destruction of elemental veins by animals (for example mantis) on PvE servers, which is branded by another player - a ban on Steam.
-----------------------------------------------------------------------------------------------
-
-4. Development
-
-4.1. It is forbidden to place bunkers or any buildings near other bases in order to limit the possibility of their development (being in PvE mode). And also about the bases of players who are in PvE mode (even if you already have PvP);
-
-4.2. You cannot have different tribe names in the same cluster;
-*You can rename the tribes once a week.
-
-4.2.1. It is forbidden to change the name of the tribe before the raid and after the raid (do not hide yourself);
-
-4.3. It is forbidden to keep the player or his animal (not to let him play) for more than 2 real hours;
-
-4.4. It is forbidden to kill an already sleeping animal or being in a trap;
-
-4.5. It is forbidden to withdraw wild titans from their spawn zone and raid foreign bases by them. The same cannot be done with corrupted animals (this also applies to the x50 pve server);
-----------------------------------------------------------------------------------------------
-
-5. Construction
-
-5.1. One tribe on the map is allowed to have only one base on land, the second in water (if there was a merger of the tribes, then you will have to sacrifice one of the bases to comply with the rules);
-
-5.2. Building caves without artifacts. The one who first built / blocked the entrance is its owner. Other buildings will be removed!
-
-5.3. It is forbidden to build bases at the players' spawn points, near obelisks and in any holes / crevices with narrow passages in them that are not caves (these also include fences, pillboxes with turrets, spikes, traps, etc.);
-*Caves are places where buildings receive increased damage (x6).
-
-5.4. It is forbidden to build or block the passage to any rays or drops while you have active PvE status (you can see with / pvestatus command);
-
-5.5. Ownerless constructions, foundations, columns and stakes are prohibited. They additionally load the server. Please destroy if not in use;
-*Allowed only near their base.
-
-5.5.1. It is forbidden to scatter bunkers / fob on the server, you can only put it near your own or another's base during a raid / defense. An exception is the protection of oneself at the obelisk during the passage of the boss and the defense of a drop or core on an Extintion;
-
-5.6. It is forbidden to open Awesome Teleport publicly to everyone. If you accidentally teleported to someone else's base, then take screenshots with the name of the teleport and to whom it belongs;
-----------------------------------------------------------------------------------------------
-
-6. Administration
-
-6.1. The project administration is not responsible for game bugs: the disappearance of animals or loot, falling through textures, stuck in textures, stuck animals in a cryopod, etc. All this is on the conscience of the developers of the game;
-* Exceptions in the event of a server crash (log screens should be attached).
-
-6.2. The administration does not bear any responsibility for the contents of the cryocapsules, as well as for themselves;
-
-6.3. For ignoring administration warnings - ban;
-
-6.4. The administration at its discretion may block access to the server of any player or group of players, without explanation and reasons (this is a necessary measure);
-
-6.5. The administration has the right to amend existing rules to improve the quality of the game for our players;
-
-6.6. We have individual server settings, if they do not suit you, we do not hold you.
-
-",
+    "Tab2Text1": "",
+    "Tab2Text2": "",
     "Tab2Text3": "",
-    "Tab3Text1": "
-Команды, использующиеся в чате игры:
-
-1. /help - инфо;
-2. /points - показать текущее количество очков;
-3. /store Номер_страницы (1-5) - список животных для покупки;
-	ПРИМЕР: /store 2
-4. /buy Номер Кол-во - купить животное в магазине
-!не покупайте водное животное на суше - оно пропадёт!;
-	ПРИМЕР: /buy 042 1
-5. /storesell - показать список доступных предметов для продажи;
-6. /sell Номер - продать предмет/трофей;
-	ПРИМЕР: /sell 01
-7. /kit - посмотреть все наборы, которые есть на сервере;
-8. /buykit Номер Кол-во - купить набор, если набор имеет цену;
-	ПРИМЕР: /buykit 01 1
-9. /kit Номер Кол-во - получить набор, который вы купили командой /buykit;
-	ПРИМЕР: /kit 01 1
-10. /trade 'Имя персонажа' Кол-во - передать очки другому игроку (кавычки в имени обязательно!).
-	ПРИМЕР: /trade 'Иван' 500
-11. /sl - узнать лимит структур на трайб.
-12. /kill - покончить с собой, если застряли (нельзя использовать в лапах, сидя на животном, лёжа на кровати или без сознания).
-
-*Стартовый набор выдаётся автоматически после первого входа на один из серверов. Если вы уже играли у нас в других сезонах, то вам надо его покупать за очки.
-",
+    "Tab3Text1": "",
     "Tab3Text2": "",
     "Tab3Text3": "",
     "Tab4Text1": "",
