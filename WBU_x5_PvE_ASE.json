@@ -24,16 +24,16 @@
     "Link2Button5": "",
     "Link3Button5": "",
     "Link4Button5": "",
-    "Tab1Panelcount": 1,
-    "Tab2Panelcount": 3,
+    "Tab1Panelcount": 2,
+    "Tab2Panelcount": 2,
     "Tab3Panelcount": 1,
     "Tab4Panelcount": 1,
     "Tab5Panelcount": 1,
-    "BackgroundTab1": 0,
-    "BackgroundTab2": 0,
-    "BackgroundTab3": 0,
-    "BackgroundTab4": 0,
-    "BackgroundTab5": 0,
+    "BackgroundTab1": 14,
+    "BackgroundTab2": 14,
+    "BackgroundTab3": 14,
+    "BackgroundTab4": 14,
+    "BackgroundTab5": 14,
     "Background3Color": "0,0,255,0.5",
     "FontColorButtons": "255,255,255",
     "FontColorServerName": "255,95,0",
@@ -41,13 +41,13 @@
     "FontColorTabText": "255,255,255",
     "UseSteamBrowserLink1": false,
     "UseSteamBrowserLink2": false,
-    "Tab1Title1": "Welcome",
-    "Tab1Title2": "",
+    "Tab1Title1": "Информация о проекте ARKLiberty:",
+    "Tab1Title2": "Наcтройки PvE кластера x5:",
     "Tab1Title3": "",
-    "Tab2Title1": "",
-    "Tab2Title2": "",
+    "Tab2Title1": "Правила поведения на наших серверах:",
+    "Tab2Title2": "Rules of behavior on our servers:",
     "Tab2Title3": "",
-    "Tab3Title1": "",
+    "Tab3Title1": "Начисляются по 50 очков раз в 30 минут!",
     "Tab3Title2": "",
     "Tab3Title3": "",
     "Tab4Title1": "",
@@ -56,13 +56,41 @@
     "Tab5Title1": "",
     "Tab5Title2": "",
     "Tab5Title3": "",
-    "Tab1Text1": "This UI is unedited. Pls contact an Admin.
+    "Tab1Text1": "
+Кластер PvE серверов с рейтами х5:
+----------------------------------------------------------------------------------------------
+Присутствует система игровых очков. За игру на сервере начисляются очки. С помощью очков можно пользоваться внутриигровым магазином!
+----------------------------------------------------------------------------------------------
 
-Are you an Admin?
-Follow these steps:
-- enablecheats youradminpassword (login as admin)
-- Admin icon visible
-- Use the buttons in the bottom right corner.",
+[RU] ARKLiberty x5 Ragnarok [PvE]
+188.255.118.122:27015
+
+[RU] ARKLiberty x5 TheIsland [PvE]
+188.255.118.122:27020
+
+[RU] ARKLiberty x5 Aberration [PvE]
+188.255.118.122:27025
+
+[RU] ARKLiberty x5 Extinction [PvE]
+188.255.118.122:27030
+
+[RU] ARKLiberty x5 CrystalIsles [PvE]
+188.255.118.122:27035
+
+[RU] ARKLiberty x5 Genesis [PvE]
+188.255.118.122:27040
+
+[RU] ARKLiberty x5 Fjordur [PvE]
+188.255.118.122:27045
+
+[RU] ARKLiberty x5 Genesis2 [PvE]
+188.255.118.122:27050
+
+На Valguero с модом суприм можно попасть только после прохождения всех бета вознесений!
+[RU] ARKLiberty x5 Valguero [PvE][Supreme]
+188.255.118.122:27060
+----------------------------------------------------------------------------------------------
+",
     "Tab1Text2": "",
     "Tab1Text3": "",
     "Tab2Text1": "",
