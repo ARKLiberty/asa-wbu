@@ -25,7 +25,7 @@
     "Link3Button5": "",
     "Link4Button5": "",
     "Tab1Panelcount": 2,
-    "Tab2Panelcount": 2,
+    "Tab2Panelcount": 1,
     "Tab3Panelcount": 1,
     "Tab4Panelcount": 1,
     "Tab5Panelcount": 1,
@@ -44,8 +44,8 @@
     "Tab1Title1": "Информация о проекте ARKLiberty:",
     "Tab1Title2": "Наcтройки PvE кластера x10:",
     "Tab1Title3": "",
-    "Tab2Title1": "Очки начисляются по 50 очков раз в 30 минут!",
-    "Tab2Title2": "Дополнительные настройки",
+    "Tab2Title1": "Дополнительные настройки",
+    "Tab2Title2": "",
     "Tab2Title3": "",
     "Tab3Title1": "",
     "Tab3Title2": "",
@@ -114,9 +114,6 @@
 ",
     "Tab1Text3": "",
     "Tab2Text1": "
-Список всех товаров можно посмотреть, открыв магазин на F11.
-",
-    "Tab2Text2": "
 Настройки Мутатора:
   Мутация (Mutation) - 300 элемента
   Поменять пол (Gender Swap) - 300 элемента
@@ -138,6 +135,7 @@
   5. /dl - узнать лимит дино на трайб
   6. /dmg 1 on/off - вкл/выкл отображение урона
 ",
+    "Tab2Text2": "",
     "Tab2Text3": "",
     "Tab3Text1": "",
     "Tab3Text2": "",
