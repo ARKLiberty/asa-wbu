@@ -27,7 +27,7 @@
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "Дополнительные информация",
+          "buttontext": "Доп.информация",
           "title1": "Дополнительные наcтройки:",
           "text1": "\nКоманды для чата в игре:\n1. /suicide - покончить с собой, если застряли",
           "imageurl": "https://i.imgur.com/AJKeDXf.png"
