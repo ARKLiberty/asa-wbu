@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<news>
+
+  <entry>
+    <date>2024-06-29 08:16:00Z</date>
+    <title>Заголовок</title>
+    <title2>Заголовок2</title2>
+    <text>Текст</text>
+    <link>https://shop.lh-games.ru/</link>
+    <imagerelpath></imagerelpath>
+  </entry>
+
+</news>
