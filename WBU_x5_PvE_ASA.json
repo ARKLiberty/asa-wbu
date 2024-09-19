@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "Информация",
+          "buttontext": "<RichColor Color=\\"1,0,0,1\\">Информация</>",
           
           "title1": "Информация",
           "text1": "
