@@ -20,7 +20,7 @@
           
           "title1": "Информация",
           "text1": "
-Список серверов:\n
+<TextStyle.Green>Список серверов:</>\n
 [RU] ARKLiberty TheIsland x5 [PvE]
 [RU] ARKLiberty ScorchedEarth x5 [PvE]
 [RU] ARKLiberty TheCenter x5 [PvE]
