@@ -18,7 +18,7 @@
           "layout": 2,
           "buttontext": "Информация",
           
-          "title1": "Информация",
+          "title1": "<RichColor Color=\"1,0,0,1\">Информация</>",
           "text1": "
 <TextStyle.Green>Список серверов:</>\n
 [RU] ARKLiberty TheIsland x5 [PvE]
