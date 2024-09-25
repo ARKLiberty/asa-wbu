@@ -39,10 +39,9 @@
 7. <RichColor Color=\"1,0.65,0,1\">Mythical Costumes</> - Скины (только донат)
 8. <RichColor Color=\"1,0.65,0,1\">Configurable Dino Armor</> - Добавляет броню тем, у кого нет сёдел
 9. <RichColor Color=\"1,0.65,0,1\">Dino Scanner</> - Поиск животных
-10. <RichColor Color=\"1,0.65,0,1\">Return The Beacons!</> - Луч для трупа или сумки
-11. <RichColor Color=\"1,0.65,0,1\">Inventory Backup Saver</> - Сохранение инвентаря игроков (для администрации)
-12. <RichColor Color=\"1,0.65,0,1\">MX-E Ark Shop UI</> - Магазин за накопленные очки (F10)
-13. <RichColor Color=\"1,0.65,0,1\">WBUI2</> - Настройки сервера (F2)
+10. <RichColor Color=\"1,0.65,0,1\">Inventory Backup Saver</> - Сохранение инвентаря игроков (для администрации)
+11. <RichColor Color=\"1,0.65,0,1\">MX-E Ark Shop UI</> - Магазин за накопленные очки (F10)
+12. <RichColor Color=\"1,0.65,0,1\">WBUI2</> - Настройки сервера (F2)
 
 <TextStyle.Green>Максимальные значения/капы:</>\n
 ➤ Урон оружия - 755.3%
