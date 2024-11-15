@@ -21,12 +21,12 @@
           "title1": "<RichColor Color=\"1,0,0,1\">Информация</>",
           "text1": "
 <TextStyle.Green>Список серверов:</>\n
-➤ [RU] ARKLiberty TheIsland x5 [PvE]
-➤ [RU] ARKLiberty ScorchedEarth x5 [PvE]
-➤ [RU] ARKLiberty TheCenter x5 [PvE]
-➤ [RU] ARKLiberty Aberration x5 [PvE]
-➤ [RU] ARKLiberty Extinction x5 [PvE] - 17 декабря
-➤ <RichColor Color=\"1,0.65,0,1\">[RU] ARKLiberty ClubARK x5 [PvE]</>
+➤ [RU] ARKLiberty TheIsland x5 [PvE][CrossPlay]
+➤ [RU] ARKLiberty ScorchedEarth x5 [PvE][CrossPlay]
+➤ [RU] ARKLiberty TheCenter x5 [PvE][CrossPlay]
+➤ [RU] ARKLiberty Aberration x5 [PvE][CrossPlay]
+➤ [RU] ARKLiberty Extinction x5 [PvE][CrossPlay] - 17 декабря
+➤ <RichColor Color=\"1,0.65,0,1\">[RU] ARKLiberty ClubARK x5 [PvE][CrossPlay]</>
 В клуб можно попасть через Esc. После этого ваш персонаж уснёт, а там вы создадите нового (награда переносится через данные обелиска/трансмиттера).
 
 <TextStyle.Green>Список основных модов:</>\n
@@ -143,6 +143,7 @@
 ➤ S-Lighting Wyvern
 ➤ S-Reaper
 ➤ S-Rock Drake
+➤ S-Fenrir
           
 <RichColor Color=\"1,0.65,0,1\">Бонусы S-дино:</>
 ➤ +10% урон
