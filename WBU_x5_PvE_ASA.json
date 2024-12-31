@@ -166,12 +166,18 @@
       },
       {
         "link2": {
+          "text": "Boosty",
+          "url": "https://boosty.to/arkliberty/donate"
+        }
+      },
+      {
+        "link3": {
           "text": "Discord",
           "url": "https://discord.com/invite/SJEMqFR"
         }
       },
       {
-        "link3": {
+        "link4": {
           "text": "VK Group",
           "url": "https://vk.com/arkliberty"
         }
