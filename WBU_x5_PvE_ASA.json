@@ -45,7 +45,8 @@
 11. <RichColor Color=\"1,0.65,0,1\">MX-E Ark Shop UI</> - Магазин за накопленные очки (F10)
 12. <RichColor Color=\"1,0.65,0,1\">WBUI2</> - Настройки сервера (F2)
 13. <RichColor Color=\"1,0.65,0,1\">Horde Ascended</> - Спавн диких Manifested дино с интересным дропом (только на ивентах)
-14. <RichColor Color=\"1,0.65,0,1\">Better Horde Mode [QoL, Open Source]</> - Подсветка поражённых дино на волнах дропов/жил (только на экстиншине)
+14. <RichColor Color=\"1,0.65,0,1\">Better Horde Mode [QoL, Open Source]</> - Подсветка поражённых дино на волнах дропов/жил
+15. <RichColor Color=\"1,0.65,0,1\">ASA Api Utils</> - Улучшенное отображение уведомлений в середине экрана
 
 <TextStyle.Green>Лимиты структур на трайб:</>\n
 ➤ Общий лимит (Total limit) - 15000
