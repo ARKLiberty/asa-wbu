@@ -160,6 +160,7 @@
 ➤ S-Rex
 ➤ S-Reaper
 ➤ S-Rock Drake
+➤ S-Shinehorn - имеет способность TameHelper, которая увеличивает потребление пищи у диких спящих животных для более быстрого приручения
 ➤ S-Spinosaurus
 ➤ S-Thylacoleo
 ➤ S-Therizinosaurus
@@ -196,7 +197,7 @@
       },
       {
         "link3": {
-          "text": "Дискорд",
+          "text": "ДС",
           "url": "https://discord.com/invite/SJEMqFR"
         }
       },
@@ -208,12 +209,18 @@
       },
       {
         "link5": {
+          "text": "Моды",
+          "url": "https://docs.google.com/spreadsheets/d/1fI9s8uUQORF-07FxuwZlnX2R2sQuj-1irEZDrvLEVbU/edit?usp=sharing"
+        }
+      },
+      {
+        "link6": {
           "text": "Правила",
           "url": "https://docs.google.com/spreadsheets/d/1AQ91TLYR9zkQzK_nbiOaxUsYQM7TIF9Gpi9pCLK2C34/edit?usp=sharing"
         }
       },
       {
-        "link6": {
+        "link7": {
           "text": "Торговый Регламент",
           "url": "https://vk.cc/cJcE8c"
         }
