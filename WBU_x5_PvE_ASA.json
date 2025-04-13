@@ -16,9 +16,9 @@
       {
         "tab1": {
           "layout": 2,
-          "buttontext": "Информация",
+          "buttontext": "Настройки",
           
-          "title1": "<RichColor Color=\"1,0,0,1\">Информация</>",
+          "title1": "<RichColor Color=\"1,0,0,1\">Сервера</>",
           "text1": "
 <TextStyle.Green>Список серверов:</>\n
 ➤ [RU] ARKLiberty TheIsland x5 [PvE][CrossPlay]
@@ -119,7 +119,7 @@
       {
         "tab2": {
           "layout": 1,
-          "buttontext": "Доп.настройки",
+          "buttontext": "Информация",
           "title1": "<RichColor Color=\"1,0,0,1\">Дополнительные наcтройки</>",
           "text1": "
 <RichColor Color=\"1,0.65,0,1\">Команды для чата в игре:</>
