@@ -21,9 +21,9 @@
           "title1": "<RichColor Color=\"1,0,0,1\">Сервера</>",
           "text1": "
 <TextStyle.Green>Список серверов:</>\n
-➤ [RU] ARKLiberty Ragnarok x10 [PvE][PrimalChaos]
-➤ [RU] ARKLiberty Astraeos x10 [PvE][PrimalChaos]
-➤ [RU] ARKLiberty Valguero x10 [PvE][PrimalChaos] - <RichColor Color=\"1,0.65,0,1\">30 сентября</>\n\n",
+➤ [RU] ARKLiberty RAG PrimalChaos x10 [PvE][CrossPlay]
+➤ [RU] ARKLiberty AST PrimalChaos x10 [PvE][CrossPlay]
+➤ [RU] ARKLiberty VAL PrimalChaos x10 [PvE][CrossPlay]\n\n",
           
           "title2": "<RichColor Color=\"1,0,0,1\">Настройки кластера</>",
           "text2": "
@@ -166,6 +166,7 @@
     ]
   }
 }
+
 
 
 
