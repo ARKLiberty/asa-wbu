@@ -28,7 +28,7 @@
 ➤ [RU] ARKLiberty Ragnarok x5 [PvE][CrossPlay]
 ➤ [RU] ARKLiberty Astraeos x5 [PvE][CrossPlay]
 ➤ [RU] ARKLiberty TheCenter x5 [PvE][CrossPlay]
-➤ [RU] ARKLiberty Valguero x5 [PvE][CrossPlay] - <RichColor Color=\"1,0.65,0,1\">7 октября</>
+➤ [RU] ARKLiberty Valguero x5 [PvE][CrossPlay]
 ➤ [RU] ARKLiberty LostColony x5 [PvE][CrossPlay] - <RichColor Color=\"1,0.65,0,1\">16 декабря</>\n
 ➤ <RichColor Color=\"1,0.65,0,1\">[RU] ARKLiberty ClubARK x5 [PvE][CrossPlay]</>
 В клуб можно попасть через Esc. После этого ваш персонаж уснёт, а там вы создадите нового (награда переносится через данные обелиска/трансмиттера).\n\n",
@@ -239,6 +239,7 @@
     ]
   }
 }
+
 
 
 
