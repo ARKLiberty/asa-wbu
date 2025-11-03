@@ -96,12 +96,16 @@
 ➤ Рамы для больших ворот (Large Gate Frames) - 5
 ➤ Рамы для ворот (Gate Frames) - 10
 ➤ Грядки (Crop Plots) - 30
-➤ Блок управления передачей ресурсов (Transfer Control Unit) - 5
-➤ Вивариум (Vivarium) - 1
-➤ Тек Терминал клонирования (Tek Cloning Terminal) - 5
-➤ Катализатор элемента (Element Catalyzer) - 5
+➤ Блок управления передачей ресурсов (CS Transfer Control Unit) - 5
+➤ Пропагатор (CS Propagator) - 10
+➤ Вивариум (CS Vivarium) - 1
+➤ Интерфейс для передачи ресурсов (CS Dedicated Storage Interface) - 1
+➤ Камера клонирования (CS Cloning Chamber) - 5
+➤ Тек Терминал клонирования (CS Tek Cloning Terminal) - 5
+➤ Катализатор элемента (CS Element Catalyzer) - 5
 ➤ Био-Дробилка (Bio-Grinder) - 2
-➤ Кормушка Гачи (Gacha Gavager) - 5
+➤ Кормушка Гачи (CS Gacha Gavager) - 5
+➤ Стойка для привязи (CS Hitching Post) - 5
 
 <TextStyle.Green>Максимальные значения/капы:</>\n
 ➤ Урон оружия - 755.3%
@@ -241,6 +245,7 @@
     ]
   }
 }
+
 
 
 
