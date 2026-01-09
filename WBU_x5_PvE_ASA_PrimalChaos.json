@@ -139,43 +139,38 @@
       },
       {
         "link2": {
-          "text": "Бусти",
-          "url": "https://boosty.to/arkliberty/donate"
-        }
-      },
-      {
-        "link3": {
           "text": "ДС",
           "url": "https://discord.com/invite/SJEMqFR"
         }
       },
       {
-        "link4": {
+        "link3": {
           "text": "ВК",
           "url": "https://vk.com/arkliberty"
         }
       },
       {
-        "link5": {
+        "link4": {
           "text": "Моды",
           "url": "https://docs.google.com/spreadsheets/d/1fI9s8uUQORF-07FxuwZlnX2R2sQuj-1irEZDrvLEVbU/edit?gid=97609942#gid=97609942"
         }
       },
       {
-        "link6": {
+        "link5": {
           "text": "Правила",
-          "url": "https://docs.google.com/spreadsheets/d/1AQ91TLYR9zkQzK_nbiOaxUsYQM7TIF9Gpi9pCLK2C34/edit?usp=sharing"
+          "url": "https://docs.google.com/spreadsheets/d/1AQ91TLYR9zkQzK_nbiOaxUsYQM7TIF9Gpi9pCLK2C34/edit?gid=0#gid=0"
         }
       },
       {
-        "link7": {
-          "text": "Торговый Регламент",
-          "url": "https://vk.cc/cJcE8c"
+        "link6": {
+          "text": "Прогрессия по моду",
+          "url": "https://docs.google.com/document/d/1LaEyl_p0AiFPnOOLr0Abq8-H_4-Se5qSMIR-NfRUtic/edit?tab=t.0"
         }
       }
     ]
   }
 }
+
 
 
 
