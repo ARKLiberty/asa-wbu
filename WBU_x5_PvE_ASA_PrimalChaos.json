@@ -86,7 +86,7 @@
 ➤ Общий лимит (Total limit) - 15000
 ➤ Рамы для больших ворот (Large Gate Frames) - 5
 ➤ Рамы для ворот (Gate Frames) - 10
-➤ Грядки (Crop Plots) - 30
+➤ Грядки (Crop Plots) - 40
 ➤ Блок управления передачей ресурсов (CS Transfer Control Unit) - 5
 ➤ Пропагатор (CS Propagator) - 10
 ➤ Вивариум (CS Vivarium) - 1
@@ -170,6 +170,7 @@
     ]
   }
 }
+
 
 
 
