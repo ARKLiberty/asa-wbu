@@ -42,66 +42,34 @@
     ],
     "links": [
       {
-        "link1": {
-          "text": "Магаз",
-          "url": "https://arkliberty-x5-creatures.survivalshop.org"
-        }
+        "text": "Магазин",
+        "url": "https://arkliberty-x5-creatures.survivalshop.org"
       },
       {
-        "link2": {
-          "text": "Бусти",
-          "url": "https://boosty.to/arkliberty/donate"
-        }
+        "text": "Бусти",
+        "url": "https://boosty.to/arkliberty/donate"
       },
       {
-        "link3": {
-          "text": "ДС",
-          "url": "https://discord.com/invite/SJEMqFR"
-        }
+        "text": "ДС",
+        "url": "https://discord.com/invite/SJEMqFR"
       },
       {
-        "link4": {
-          "text": "ВК",
-          "url": "https://vk.com/arkliberty"
-        }
+        "text": "ВК",
+        "url": "https://vk.com/arkliberty"
       },
       {
-        "link5": {
-          "text": "Моды",
-          "url": "https://docs.google.com/spreadsheets/d/1fI9s8uUQORF-07FxuwZlnX2R2sQuj-1irEZDrvLEVbU/edit?usp=sharing"
-        }
+        "text": "Моды",
+        "url": "https://docs.google.com/spreadsheets/d/1fI9s8uUQORF-07FxuwZlnX2R2sQuj-1irEZDrvLEVbU/edit?usp=sharing"
       },
       {
-        "link6": {
-          "text": "Правила",
-          "url": "https://docs.google.com/spreadsheets/d/1AQ91TLYR9zkQzK_nbiOaxUsYQM7TIF9Gpi9pCLK2C34/edit?gid=0#gid=0"
-        }
+        "text": "Правила",
+        "url": "https://libertyeconomy-elmirafeschuk.amvera.io/#rules"
       },
       {
-        "link7": {
-          "text": "Калькулятор торговли",
-          "url": "https://vk.cc/d01HCo"
-        }
+        "text": "Калькулятор торговли",
+        "url": "https://libertyeconomy-elmirafeschuk.amvera.io/#animals"
       }
-    ]
+    ],
+    "version": 2
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
