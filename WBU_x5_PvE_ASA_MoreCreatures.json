@@ -1,16 +1,16 @@
 {
   "WBUI2": {
     "settings": {
-        "OpenButton": 1,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/KUSEDVv.png",
-        "DisableIconText": true,
-        "IconPosition": 3,
-        "IconTextColor": 5,
-        "OpenOnStart": false,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
+       "OpenButton": 1,
+       "HideIcon": false,
+       "HideIconAfter": 60,
+       "IconURL": "https://i.imgur.com/KUSEDVv.png",
+       "DisableIconText": true,
+       "IconPosition": 3,
+       "IconTextColor": 5,
+       "OpenOnStart": false,
+       "OpenOnStartOnlyNewPlayers": true,
+       "UpdateInterval": 12
       },
     "tabs": [
       {
