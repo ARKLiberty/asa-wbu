@@ -14,15 +14,14 @@
     },
     "tabs": [
       {
-        "tab1": {
-          "layout": 2,
-          "buttontext": "Настройки",
+         "layout": 2,
+         "buttontext": "Настройки",
           
-          "title1": "<RichColor Color=\"1,0,0,1\">Сервера</>",
-          "text1": "<TextStyle.Green>Список серверов:</>\n➤ [RU] ARKLiberty Ragnarok x5 [PvE][CrossPlay]\n➤ [RU] ARKLiberty Astraeos x5 [PvE][CrossPlay]\n\nБоссы призываются только через специальные терминалы, находящиеся на карте Ragnarok.\nОколо них стоят телепорты, телепортироваться можно через CS Omni-Tool.\n\nРестарты серверов в 4:00 и 18:00 по мск.\n\n",
+         "title1": "<RichColor Color=\"1,0,0,1\">Сервера</>",
+         "text1": "<TextStyle.Green>Список серверов:</>\n➤ [RU] ARKLiberty Ragnarok x5 [PvE][CrossPlay]\n➤ [RU] ARKLiberty Astraeos x5 [PvE][CrossPlay]\n\nБоссы призываются только через специальные терминалы, находящиеся на карте Ragnarok.\nОколо них стоят телепорты, телепортироваться можно через CS Omni-Tool.\n\nРестарты серверов в 4:00 и 18:00 по мск.\n\n",
           
-          "title2": "<RichColor Color=\"1,0,0,1\">Настройки кластера</>",
-          "text2": "
+         "title2": "<RichColor Color=\"1,0,0,1\">Настройки кластера</>",
+         "text2": "
 <TextStyle.Green>Основные настройки:</>\n
 ➤ Опыт за убийство - х5 (в пещерах - х7.5)
 ➤ Опыт за крафт с сбор - х2.5
